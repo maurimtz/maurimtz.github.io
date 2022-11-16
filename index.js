@@ -3,8 +3,8 @@ const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
     Swal.fire({
-        title: 'Sabia que ibas a decir que si TQM!!!',
-        imageUrl: 'icono.jpg'
+        title: 'Sabia que ibas a decir que si :3',
+        imageUrl: 'cora.png'
     });
 });
 
