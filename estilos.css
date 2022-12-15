@@ -4,7 +4,7 @@
 }
 
 .contenedor{
-    background: #B1AFFF;
+    background: #b1afff;
     width: 100vw;
     height: 100vh;
     text-align: center;
@@ -45,3 +45,4 @@ h1{
 #noBtn{
     position: absolute;
 }
+
